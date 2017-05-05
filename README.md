@@ -7,4 +7,4 @@ Href: http://acm.nyist.net/JudgeOnline/problemset.php
 
 System: Code on MacOS Sierra 10.12.1
 
-Python Version: 3.6.0
+Python Version: 3.6.1
